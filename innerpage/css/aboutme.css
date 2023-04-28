@@ -173,8 +173,8 @@
   }
   
   .navMenu__content a:nth-child(3):hover ~ .dot {
-    -webkit-transform: translateX(155px);
-    transform: translateX(155px);
+    -webkit-transform: translateX(165px);
+    transform: translateX(165px);
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
     opacity: 1;
