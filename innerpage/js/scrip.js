@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 $(document).ready(function(){
 
   // TOP
@@ -18,3 +19,25 @@ $(document).ready(function(){
   
   
   });
+=======
+$(document).ready(function(){
+
+  // TOP
+  $(window).scroll(function() {
+      if ($(this).scrollTop() >= 50) {        // If page is scrolled more than 50px
+          $('#return-to-top').fadeIn(200);    // Fade in the arrow
+      } else {
+          $('#return-to-top').fadeOut(200);   // Else fade out the arrow
+      }
+  });
+  $('#return-to-top').click(function() {      // When arrow is clicked
+      $('body,html').animate({
+          scrollTop : 0                       // Scroll to top of body
+      }, 500);
+  });
+  
+  // 
+  
+  
+  });
+>>>>>>> 1894a9e8d3ad6b4093c7ba592cdf562f3b6c9136
