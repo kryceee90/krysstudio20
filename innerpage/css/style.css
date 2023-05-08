@@ -206,7 +206,8 @@ img {
   
   
   .slideshow li:nth-child(1) span { 
-      background-image: url("../images/visual6.jpg"); 
+background-image: url("../images/visual6.jpg"); 
+
   }
   .slideshow li:nth-child(2) span { 
       background-image: url("../images/visual2.jpg"); 
