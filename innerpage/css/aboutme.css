@@ -173,21 +173,21 @@
   }
   
   .navMenu__content a:nth-child(3):hover ~ .dot {
-    -webkit-transform: translateX(155px);
-    transform: translateX(155px);
+    -webkit-transform: translateX(165px);
+    transform: translateX(165px);
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
     opacity: 1;
   }
   
   .navMenu__content a:nth-child(4):hover ~ .dot {
-    -webkit-transform: translateX(210px);
-    transform: translateX(210px);
+    -webkit-transform: translateX(250px);
+    transform: translateX(250px);
     -webkit-transition: all 0.2s ease-in-out;
     transition: all 0.2s ease-in-out;
     opacity: 1;
   }
-  
+
   .navMenu__content a:nth-child(5):hover ~ .dot {
     -webkit-transform: translateX(300px);
     transform: translateX(300px);
