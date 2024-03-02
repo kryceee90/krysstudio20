@@ -260,7 +260,7 @@ background-image: url("../images/visual7.jpg");
   
   .item {
     width: 49%;
-    height: 100%;
+    height: 500px;
     margin-bottom: 30px;
   }
   .item a:hover{
@@ -274,7 +274,7 @@ background-image: url("../images/visual7.jpg");
   
   .img-container img {
     width: 100%;
-    /* height: 100%; */
+   height: 100%;
     object-fit: cover;
   }
   
