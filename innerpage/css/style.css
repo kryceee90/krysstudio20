@@ -206,23 +206,23 @@ img {
   
   
   .slideshow li:nth-child(1) span { 
-background-image: url("../images/visual6.jpg"); 
+background-image: url("../images/visual7.jpg"); 
 
   }
   .slideshow li:nth-child(2) span { 
-      background-image: url("../images/visual2.jpg"); 
+      background-image: url("../images/visual6.jpg"); 
       animation-delay: 5s; 
   }
   .slideshow li:nth-child(3) span { 
-    background-image: url("../images/visual3.jpg"); 
+    background-image: url("../images/visual2.jpg"); 
       animation-delay: 10s; 
   }
   .slideshow li:nth-child(4) span { 
-    background-image: url("../images/visual4.jpg"); 
+    background-image: url("../images/visual3.jpg"); 
       animation-delay: 15s; 
   }
   .slideshow li:nth-child(5) span { 
-    background-image: url("../images/visual5.jpg"); 
+    background-image: url("../images/visual4.jpg"); 
       animation-delay: 20s; 
   }
   
